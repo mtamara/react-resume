@@ -14,7 +14,7 @@
   "background_color": "#ffffff",
 	"version": "0.1.0",
 	"private": true,
-	"homepage": "https://mtamara.github.io/me",
+	"homepage": "https://mtamara.github.io/react-resume",
 	"dependencies": {
 		"gh-pages": "^2.0.1",
 		"react": "^16.8.3",
