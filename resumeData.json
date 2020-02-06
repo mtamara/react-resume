@@ -1,0 +1,150 @@
+{
+  "main": {
+    "name":"Tamara Milovanovic",
+    "occupation":"Full Stack Software Engineer",
+    "description":", passionate traveler and sports athlete",
+    "image":"profilepic.jpg",
+    "bio":"I'm a senior software engineer working for a Munich based company and volunteering as a team lead and trainer for programming courses at Female Tech Leaders organization. I enjoy fullstack web development and playing around with new and challenging technologies. One of my hobbies are hackathons and I have won 2 so far – Audi Challenge at FC Bayern HackDays 2018 and the Best Pitch Award at HackDays Rhein-Neckar 2019. In my free time I'm most probably to be seen on the handball court playing handball for FC Bayern or travelling with my backpack.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "tamara.milovanovic@gmail.com",
+    "phone": "555-555-5555",
+    "address":{
+      "street":"(Your Street)",
+      "city":"Munich",
+      "state":"(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "",
+    "resumedownload":"",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/tamara.milovanovic.37",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"xing",
+        "url":"https://www.xing.com/profile/Tamara_Milovanovic2/cv",
+        "className":"fa fa-xing"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/tamara-milovanovic-5a817467/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/mtamara",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Faculty of Technical Sciences, University in Novi Sad",
+        "degree":"Master in Electrical and Computer Engineering - Information Systems Engineering",
+        "timeline": "2015 - 2017",
+        "thesis": "Master Thesis:",
+        "description":"An Architecture and ETL Support of a System for Airplane Flight Analysis at the Level of United States of America"
+      },
+      {
+        "school":"Faculty of Technical Sciences, University in Novi Sad",
+        "degree":"Bachelor with honours in Electrical and Computer Engineering - Computing and Control Engineering",
+        "timeline": "2011 - 2015",
+        "thesis": "Bachelor Thesis:",
+        "description":"A Software Tool for a Language School Support Services – A Subsystem for Students’ Data and Class Organization"
+      }
+    ],
+    "work":[
+      {
+        "company":"MaibornWolff GmbH",
+        "title":"Senior Software Engineer",
+        "years":"March 2017 - Present",
+        "description":"Full Stack"
+      },
+      {
+        "company":"tisoware Gesellschaft für Zeitwirtschaft mbH",
+        "title":"Web Developer",
+        "years":"February 2016 - March 2017",
+        "description":"Frontend"
+      }
+    ],
+    "languages":[
+      {
+        "name":"Serbian",
+        "level":"100%"
+      },
+      {
+        "name":"English",
+        "level":"90%"
+      },
+      {
+        "name":"German",
+        "level":"85%"
+      },
+      {
+        "name":"Spanish",
+        "level":"40%"
+      }
+    ],
+    "skills":[
+      {
+        "name":"HTML"
+      },
+      {
+        "name":"CSS"
+      },
+      {
+        "name":"JavaScript"
+      },
+      {
+        "name":"ReactJS"
+      },
+      {
+        "name":"Angular"
+      },
+      {
+        "name":"Bootstrap"
+      },
+      {
+        "name":"Java"
+      },
+      {
+        "name":"Spring Framework"
+      },
+      {
+        "name":"Microsoft Azure"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"As an engineer, you learn there is a solution to every problem. It may take you a while, but eventually you're going to find it.",
+        "user":"Tony Cardenas"
+      },
+      {
+        "text":"If you always do what you’ve always done, you’ll always get what you’ve always got.",
+        "user":"Henry Ford"
+      }
+    ]
+  }
+}
